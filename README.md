@@ -26,7 +26,7 @@ There isn't any prerequisites to run this solution, only download all dependence
 
 
 ## :clap: Special Thanks
-Mathieu Media that created youtube videos for this soluction in Javascript.
+Mathieu Media that created youtube videos for this solution in Javascript.
 [Follow this link to his youtube channel.](https://www.youtube.com/@MathieuMedia) 
 
 
