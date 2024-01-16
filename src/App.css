@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+svg {
+  width: 30px;
+  height: 30px;
+  transition: fill 0.2s ease-in-out;
+}
+svg:hover {
+  fill: red;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

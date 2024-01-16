@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Closeable Tabs in React
+![Closeable Tabs](images/CloseableTabs.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :eyes: Overview
+Closeable tabs is an important functionality when designing an easy and practice user experience.
+In this React Project, you will find a solution for creating Dynamic and Closeable tabs and easily
+it can be adapted to any type of project (Javascript Stack).
 
-## Available Scripts
+## :warning: Important
+This project uses Material UI, where is an open-source React component library that implements **Google's Material Design**. It's comprehensive and can be used in production out of the box.
 
-In the project directory, you can run:
+## :technologist: Audience
+This project is designed for people familiar with HTML, React App, Material Design and typescript development.
 
-### `npm start`
+## :triangular_flag_on_post: Prerequisites
+There isn't any prerequisites to run this solution, only download all dependences (npm install).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## :hammer: Dependencies
+- typescript
+- @mui/material
+- @mui/lab
+- @mui/icons-material
+- @emotion/styled
+- @emotion/react
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :clap: Special Thanks
+Mathieu Media that created youtube videos for this soluction in Javascript.
+[Follow this link to his youtube channel.](https://www.youtube.com/@MathieuMedia) 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :page_facing_up: License
+This project is MIT Licensed
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
